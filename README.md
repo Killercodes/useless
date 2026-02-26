@@ -40,3 +40,14 @@ In case the command needs additionl parameters we can create the "parameter" key
         "parameter":"<additionalparameter>"
     },
 ```
+
+## How to install ?
+
+1. Update the useless.bat file by correcting the path as for user Killercodes
+```
+py "C:\Users\Killercodes\commander.py"
+```
+
+2. Move the useless.bat and app.py to user folder `C:\Users\Killercodes\` or any other folder in the Path
+
+3. type `useless` in the commadline to run
